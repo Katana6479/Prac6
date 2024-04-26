@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cars_main"
+      android:title="Машины"
+      android:icon="@drawable/home_bat"/>
+    <item android:id="@+id/tracks"
+      android:icon="@drawable/message_bat"
+      android:title="Гоночные треки"/>
+    <item android:id="@+id/wheels"
+          android:icon="@drawable/ic_action_name"
+          android:title="Диски"/>
+    <item android:id="@+id/technic"
+          android:icon="@mipmap/technic_garage"
+          android:title="Технический центр"/>
+</menu>
